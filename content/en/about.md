@@ -4,25 +4,25 @@ type: about
 sidebar:
   exclude: true
 ---
-#### He Xi 2077 / justlovemaki
+#### Hexi 2077 / justlovemaki
 
-> Coded for a whole decade, my fingers felt the chill,
-> My passion dimmed, kept my ambitions still.
-> But then, out of nowhere, AI's thunder hit hard! 🤯
-> Now I'm ready to battle in the clouds, playing my best card! 💪
+A decade of code, fingers grew cold,
+Unvented frustrations, a story untold.
+Then AI's storm suddenly broke, a thunderous sound,
+I vowed to reach for the clouds, on new battleground.
 
-#### My Code Philosophy 🚀
+#### 🧠 My Coding Philosophy
 
-> Tech for the People! 💡
+> Technology for the people
 
-#### Key Projects ✨
+#### 🌟 Featured Projects
 
 *   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   An AI image generation script powered by Cloudflare Workers. 🖼️
+    *   An AI image generation script built on Cloudflare Workers.
 *   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   This content aggregation and generation platform, fueled by Cloudflare Workers, curates daily AI updates for you! It covers industry news, hot open-source projects, cutting-edge academic papers, and even insights from tech big shots on social media. 🚀
-*   Wanna see more? Check out my [GitHub](https://github.com/justlovemaki)!
+    *   This platform, powered by Cloudflare Workers, aggregates and generates content. Every day, it curates the latest AI buzz for you, covering industry news, hot open-source projects, groundbreaking academic papers, and even insights from tech influencers' social media!
+*   For more project details, check out my [GitHub](https://github.com/justlovemaki)!
 
-#### What I'm Digging Into Now 🌱
+#### 🔍 Currently Exploring
 
-I'm super stoked about LLM applications and website SEO! 🤩 Actively diving deep into learning and hands-on practice.
+I'm super interested in LLM applications and website SEO right now, and I'm actively diving deep into learning and practical application!
